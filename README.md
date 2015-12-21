@@ -1,2 +1,2 @@
-# the-swift-prgramming-language-in-ukrainian
+# the-swift-programming-language-in-ukrainian
 TDB
